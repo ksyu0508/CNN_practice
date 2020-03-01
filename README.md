@@ -1,2 +1,3 @@
-# CNN_practice
-CNN practice
+# Computer Vision Practice
+
+Computer Vission practice
