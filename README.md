@@ -1,3 +1,3 @@
 # Computer Vision Practice
 
-Computer Vission practice
+Computer Vision practice
