@@ -4,7 +4,7 @@ Computer Vision practice
 
 ## GAN 관련 논문 목록
 |명칭|날짜|논문|
-|---|---|---|
+|:---:|---|---|
 |GAN|2014/06/10|[Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)|
 |DCGAN|2015/11/19|[Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)|
 |cGAN|2016/11/21|[Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)|
