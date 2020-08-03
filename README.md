@@ -16,6 +16,11 @@ Computer Vision practice
 |StarGAN|2017/11/24|[StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020)|
 |SRGAN|2016/09/15|[Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802)|
 |SEGAN|2017/03/28|[SEGAN: Speech Enhancement Generative Adversarial Network](https://arxiv.org/abs/1703.09452)|
-|steerability of GAN|2019/07/16|[On the "steerability" of generative adversarial networks](https://arxiv.org/abs/1907.07171)|
+||2019/07/16|[On the "steerability" of generative adversarial networks](https://arxiv.org/abs/1907.07171)|
 |DVD-GAN|2019/07/15|[Adversarial Video Generation on Complex Datasets](https://arxiv.org/abs/1907.06571)|
 |SeqGAN|2016/9/18|[SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/abs/1609.05473)|
+
+## OCR 관련 논문 목록
+|명칭|날짜|논문|
+|---|---|---|
+|MORAN|2019/01/10|[A Multi-Object Rectified Attention Network for Scene Text Recognition](https://arxiv.org/abs/1901.03003)|
