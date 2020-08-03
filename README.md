@@ -10,11 +10,9 @@ Computer Vision practice
 |cGAN|2016/11/21|[Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004)|
 |WGAN|2017/01/26|[Wasserstein GAN](https://arxiv.org/abs/1701.07875)|
 |EBGAN|2016/09/11|[Energy-based Generative Adversarial Network](https://arxiv.org/abs/1609.03126)|
-|BEGAN|2017/03/31|[BEGAN: Boundary Equilibrium Generative Adversarial Networks
-](https://arxiv.org/abs/1703.10717)|
+|BEGAN|2017/03/31|[BEGAN: Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/abs/1703.10717)|
 |CycleGAN|2017/03/30|[Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)|
 |DiscoGAN|2017/03/15|[Learning to Discover Cross-Domain Relations with Generative Adversarial Networks](https://arxiv.org/abs/1703.05192)|
 |StarGAN|2017/11/24|[StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020)|
 |SRGAN|2016/09/15|[Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network](https://arxiv.org/abs/1609.04802)|
-|SEGAN|2017/03/28|[SEGAN: Speech Enhancement Generative Adversarial Network
-](https://arxiv.org/abs/1703.09452)|
+|SEGAN|2017/03/28|[SEGAN: Speech Enhancement Generative Adversarial Network](https://arxiv.org/abs/1703.09452)|
