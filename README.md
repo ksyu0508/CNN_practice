@@ -23,8 +23,8 @@ Computer Vision practice
 ## OCR 관련 논문 목록
 |명칭|날짜|논문|
 |---|---|---|
-|FOTS||[FOTS: Fast Oriented Text Spotting with a Unified Network](https://arxiv.org/abs/1801.01671)|
+|EAST|2017/04/11|[EAST: An Efficient and Accurate Scene Text Detector](https://arxiv.org/abs/1704.03155)|
+|FOTS|2018/01/05|[FOTS: Fast Oriented Text Spotting with a Unified Network](https://arxiv.org/abs/1801.01671)|
 |ASTER|2018/06/25|[ASTER: An Attentional Scene Text Recognizer with Flexible Rectification](https://www.vlrlab.net/admin/uploads/avatars/ASTER_An_Attentional_Scene_Text_Recognizer_with_Flexible_Rectification.pdf)|
-|EAST||[EAST: An Efficient and Accurate Scene Text Detector](https://arxiv.org/abs/1704.03155)|
 |MORAN|2019/01/10|[A Multi-Object Rectified Attention Network for Scene Text Recognition](https://arxiv.org/abs/1901.03003)|
 |DAN|2019/12/21|[Decoupled Attention Network for Text Recognition](https://arxiv.org/abs/1912.10205)|
